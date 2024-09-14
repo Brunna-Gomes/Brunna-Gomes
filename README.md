@@ -1,8 +1,8 @@
-<h1 align="left">Olá! Eu sou Bruna Gomes👋🏼. </h1>
+<h1 align="left">Hello! I'm Bruna Gomes👋🏼. </h1>
 
 ###
 
-<p align="left">Desenvolvedora de Sistemas jr apaixonada por tecnologia e inovação.</p>
+<p align="left">Junior Systems Developer passionate about technology and innovation.</p>
 
 ###
 
@@ -10,9 +10,9 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2022.<br>📚 I'm currently learning JAVA, JavaScript e Node.js.<br>🎯 Goals: Me tornar desenvolvedora Back-End e Futuramente atuar na área de Dados.<br>🎲 Fun fact: Estou sempre aprendendo coisas novas.</p>
+<p align="left">✨ Creating bugs since 2022.<br>📚 I'm currently learning Java, JavaScript and Node.js.<br>🎯 Goals: Becoming a Back-End developer and working in the Data area in the future.<br>🎲 Fun fact: I am always learning new things.</p>
 
-<h2 align="left">Contatos</h2>
+<h2 align="left">contacts</h2>
 
 <div align="left">
   <a href="https://www.linkedin.com/in/bruna-camilly-ads/" target="_blank">
