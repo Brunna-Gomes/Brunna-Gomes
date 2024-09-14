@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Junior Systems Developer passionate about technology and innovation.</p>
+<p align="left"> Developer in constant evolution and enthusiast of new technologies. Since 2022, I have been exploring languages ​​such as Java, JavaScript and Node.js, always focusing on solving problems and building efficient solutions. My passion for learning never stops, and my next goal is to grow as a Back-End developer, with future interest in the data area.</p>
 
 ###
 
