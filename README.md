@@ -12,7 +12,7 @@
 
 <p align="left">✨ Creating bugs since 2022.<br>📚 I'm currently learning Java, JavaScript and Node.js.<br>🎯 Goals: Becoming a Back-End developer and working in the Data area in the future.<br>🎲 Fun fact: I am always learning new things.</p>
 
-<h2 align="left">contacts</h2>
+<h2 align="left">Contacts</h2>
 
 <div align="left">
   <a href="https://www.linkedin.com/in/bruna-camilly-ads/" target="_blank">
